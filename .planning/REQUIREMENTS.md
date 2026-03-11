@@ -57,24 +57,24 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| SETUP-01 | — | Pending |
-| SETUP-02 | — | Pending |
-| SETUP-03 | — | Pending |
-| SETUP-04 | — | Pending |
-| STYLE-01 | — | Pending |
-| STYLE-02 | — | Pending |
-| STYLE-03 | — | Pending |
-| DONUT-01 | — | Pending |
-| DONUT-02 | — | Pending |
-| DONUT-03 | — | Pending |
-| LAYOUT-01 | — | Pending |
-| LAYOUT-02 | — | Pending |
+| SETUP-01 | Phase 1: Foundation | Pending |
+| SETUP-02 | Phase 1: Foundation | Pending |
+| SETUP-03 | Phase 1: Foundation | Pending |
+| SETUP-04 | Phase 1: Foundation | Pending |
+| STYLE-01 | Phase 2: Design System | Pending |
+| STYLE-02 | Phase 2: Design System | Pending |
+| STYLE-03 | Phase 2: Design System | Pending |
+| DONUT-01 | Phase 3: Donut Experience | Pending |
+| DONUT-02 | Phase 3: Donut Experience | Pending |
+| DONUT-03 | Phase 3: Donut Experience | Pending |
+| LAYOUT-01 | Phase 3: Donut Experience | Pending |
+| LAYOUT-02 | Phase 3: Donut Experience | Pending |
 
 **Coverage:**
 - v1 requirements: 12 total
-- Mapped to phases: 0
-- Unmapped: 12 ⚠️
+- Mapped to phases: 12
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-03-11*
-*Last updated: 2026-03-11 after initial definition*
+*Last updated: 2026-03-11 after roadmap creation*
