@@ -9,10 +9,10 @@ Requirements for initial release. Each maps to roadmap phases.
 
 ### Project Setup
 
-- [ ] **SETUP-01**: React + Vite project scaffolded with dev server running
-- [ ] **SETUP-02**: MUI installed with custom ThemeProvider wrapping the app
-- [ ] **SETUP-03**: Phosphor Icons installed and usable in components
-- [ ] **SETUP-04**: Playful/rounded custom font loaded from Google Fonts and set as default typography
+- [x] **SETUP-01**: React + Vite project scaffolded with dev server running
+- [x] **SETUP-02**: MUI installed with custom ThemeProvider wrapping the app
+- [x] **SETUP-03**: Phosphor Icons installed and usable in components
+- [x] **SETUP-04**: Playful/rounded custom font loaded from Google Fonts and set as default typography
 
 ### Style Guide
 
@@ -57,10 +57,10 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| SETUP-01 | Phase 1: Foundation | Pending |
-| SETUP-02 | Phase 1: Foundation | Pending |
-| SETUP-03 | Phase 1: Foundation | Pending |
-| SETUP-04 | Phase 1: Foundation | Pending |
+| SETUP-01 | Phase 1: Foundation | Complete |
+| SETUP-02 | Phase 1: Foundation | Complete |
+| SETUP-03 | Phase 1: Foundation | Complete |
+| SETUP-04 | Phase 1: Foundation | Complete |
 | STYLE-01 | Phase 2: Design System | Pending |
 | STYLE-02 | Phase 2: Design System | Pending |
 | STYLE-03 | Phase 2: Design System | Pending |
