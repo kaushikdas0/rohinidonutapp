@@ -27,10 +27,10 @@ Decimal phases appear between their surrounding integers in numeric order.
   2. A MUI component (e.g., Button) renders with the custom ThemeProvider applied
   3. A Phosphor Icon renders in a component
   4. All text renders in the chosen playful/rounded font (not browser default)
-**Plans**: TBD
+**Plans:** 1 plan
 
 Plans:
-- [ ] 01-01: TBD
+- [ ] 01-01-PLAN.md -- Scaffold Vite project with MUI, Phosphor Icons, and Quicksand font
 
 ### Phase 2: Design System
 **Goal**: The dark + neon visual identity is fully defined in code and visually verified through a component showcase
@@ -66,6 +66,6 @@ Phases execute in numeric order: 1 -> 2 -> 3
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation | 0/? | Not started | - |
+| 1. Foundation | 0/1 | Not started | - |
 | 2. Design System | 0/? | Not started | - |
 | 3. Donut Experience | 0/? | Not started | - |
