@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Font Preview — Rohini Donut App</title>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;900&family=Comfortaa:wght@400;700&family=Quicksand:wght@400;700&family=Fredoka:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #0a0a0f; color: #fff; padding: 40px; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; max-width: 1200px; margin: 0 auto; }
+  .card {
+    background: #12121a;
+    border: 1px solid #222;
+    border-radius: 16px;
+    padding: 32px;
+    transition: border-color 0.3s;
+  }
+  .card:hover { border-color: #0ff; box-shadow: 0 0 20px rgba(0,255,255,0.1); }
+  .card h2 { font-size: 14px; color: #0ff; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 24px; font-family: monospace; }
+  .display { font-size: 48px; font-weight: 700; margin-bottom: 16px; background: linear-gradient(135deg, #0ff, #f0f); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+  .heading { font-size: 28px; font-weight: 700; margin-bottom: 12px; color: #fff; }
+  .body { font-size: 16px; line-height: 1.6; color: #aaa; margin-bottom: 16px; }
+  .small { font-size: 13px; color: #666; }
+  .nunito { font-family: 'Nunito', sans-serif; }
+  .comfortaa { font-family: 'Comfortaa', sans-serif; }
+  .quicksand { font-family: 'Quicksand', sans-serif; }
+  .fredoka { font-family: 'Fredoka', sans-serif; }
+  h1 { font-family: monospace; text-align: center; color: #0ff; font-size: 16px; letter-spacing: 3px; margin-bottom: 40px; }
+</style>
+</head>
+<body>
+<h1>FONT PREVIEW — PICK YOUR DONUT FONT</h1>
+<div class="grid">
+  <div class="card">
+    <h2>1. Nunito</h2>
+    <div class="nunito">
+      <div class="display">ROHINI DONUT</div>
+      <div class="heading">Cyber Donut App</div>
+      <div class="body">A spinning neon donut experiment. The quick brown fox jumps over the lazy dog. 0123456789</div>
+      <div class="small">Friendly but professional. Rounded terminals. Works at all sizes. Weights: 200–900</div>
+    </div>
+  </div>
+  <div class="card">
+    <h2>2. Comfortaa</h2>
+    <div class="comfortaa">
+      <div class="display">ROHINI DONUT</div>
+      <div class="heading">Cyber Donut App</div>
+      <div class="body">A spinning neon donut experiment. The quick brown fox jumps over the lazy dog. 0123456789</div>
+      <div class="small">Bubbly, geometric, wide. Circular O's look like donuts. Weights: 300–700</div>
+    </div>
+  </div>
+  <div class="card">
+    <h2>3. Quicksand</h2>
+    <div class="quicksand">
+      <div class="display">ROHINI DONUT</div>
+      <div class="heading">Cyber Donut App</div>
+      <div class="body">A spinning neon donut experiment. The quick brown fox jumps over the lazy dog. 0123456789</div>
+      <div class="small">Delicate, modern, airy. Thinner strokes, premium feel. Weights: 300–700</div>
+    </div>
+  </div>
+  <div class="card">
+    <h2>4. Fredoka</h2>
+    <div class="fredoka">
+      <div class="display">ROHINI DONUT</div>
+      <div class="heading">Cyber Donut App</div>
+      <div class="body">A spinning neon donut experiment. The quick brown fox jumps over the lazy dog. 0123456789</div>
+      <div class="small">Chunky, bouncy, loud. Thick rounded strokes. Demands attention. Weights: 300–700</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
